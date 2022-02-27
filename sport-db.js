@@ -70,7 +70,5 @@ const setdetails = set =>{
             <h3>Name : ${set.strPlayer}</h3>
             <h4>Position : ${set.strPosition}</h4>
             <h5>Country : ${set.strNationality}</h5>
-        </div>`;
-        
-    
+        </div>`;  
 }
